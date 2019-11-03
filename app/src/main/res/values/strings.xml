@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Shuttle Time</string>
+    <string name="first_man">First Man Ser</string>
+    <string name="second_man">Second Man Ser</string>
+    <string name="_0">0</string>
+    <string name="point_up">Point Up</string>
+    <string name="ser_out">Ser Out</string>
+    <string name="team_on_left">Team on left</string>
+    <string name="team_on_right">Team on right</string>
+</resources>
